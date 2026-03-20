@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vipul Rana
+# 👋 Hi, I'm Vipul Chandra
 
 ## 🚀 Aspiring AI/ML Engineer
 
