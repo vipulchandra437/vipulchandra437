@@ -51,8 +51,8 @@ To become a skilled AI/ML Engineer and work on impactful real-world problems usi
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/your-username  
-- (Add LinkedIn later)
+- GitHub: https://github.com/vipulchandra437
+
 
 ---
 
