@@ -1,72 +1,55 @@
-# 👋 Hi, I'm Vipul Chandra
+👋 Hi, I'm Vipul Chandra  
 
-## 🚀 Aspiring AI/ML Engineer
+🚀 AI/ML Engineer | Python | Machine Learning | Deep Learning  
 
-I am a passionate and career-focused AI/ML learner, building real-world projects to develop strong problem-solving skills in Machine Learning and Deep Learning.
-
----
-
-## 🧠 What I Do
-
-- Build Machine Learning models from scratch  
-- Work on real-world datasets  
-- Develop end-to-end ML projects (model → deployment)  
-- Explore Deep Learning and Neural Networks  
+I design and build machine learning systems using real-world datasets, focusing on solving practical problems through data-driven approaches. My work includes developing end-to-end ML pipelines, from data preprocessing to model deployment.
 
 ---
 
-## 🛠️ Skills
-
-- **Languages:** Python  
-- **Machine Learning:** Scikit-learn  
-- **Deep Learning:** PyTorch  
-- **NLP:** Text Processing, TF-IDF  
-- **Tools:** Git, GitHub  
+🧠 Core Expertise
+- Machine Learning model development and evaluation  
+- Data preprocessing and feature engineering  
+- Model optimization and performance improvement  
+- End-to-end ML pipeline development  
 
 ---
 
-## 📌 Projects
+🛠️ Tech Stack  
 
-### 🔹 Spam Email Classifier
-- Built using NLP (TF-IDF) and Machine Learning  
-- Trained on real-world email dataset  
-- Deployed as a web app using Flask  
-- Performs real-time spam detection  
+Languages: Python  
 
----
+Machine Learning: Scikit-learn (Regression, Classification, Model Evaluation)  
 
-## 🎯 Current Focus
+Deep Learning: PyTorch (Neural Networks, CNNs)  
 
-- Improving Deep Learning skills  
-- Building more advanced AI/ML projects  
-- Preparing for AI/ML internship opportunities  
+NLP: TF-IDF, Text Vectorization, Text Classification  
+
+Tools: Git, GitHub, Flask / Streamlit  
 
 ---
 
-## 📈 Goal
+📌 Featured Project  
 
-To become a skilled AI/ML Engineer and work on impactful real-world problems using Artificial Intelligence.
-
----
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/vipulchandra437
-
+🔹 Spam Email Classifier  
+- Developed an NLP-based classification system using TF-IDF and Logistic Regression  
+- Achieved ~97% accuracy on real-world dataset  
+- Implemented preprocessing, feature extraction, and model evaluation  
+- Built a web interface using Flask for real-time predictions  
+- Compared multiple models (Logistic Regression, Naive Bayes) for performance  
 
 ---
 
-<!--
-**vipulchandra437/vipulchandra437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Current Focus  
+- Building advanced ML & Deep Learning projects  
+- Improving model performance and evaluation techniques  
+- Preparing for AI/ML internship roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Career Goal  
+To become a professional AI/ML Engineer and build scalable AI systems that solve real-world problems.
+
+---
+
+📫 Connect with Me  
+GitHub: https://github.com/vipulchandra437  
